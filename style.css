@@ -13,7 +13,7 @@ header {
   position: relative;
   width: 100%;
   height: 110vh;
-  background-image: url('./imagesss/header.png');
+  background-image: url('./assests/header.png');
   background-position: center;
   background-size: cover;
 }
@@ -177,7 +177,7 @@ nav .nav-links ul {
 
 .right-sec {
   width: 50%;
-  background-image: url('./imagesss/orange1.png');
+  background-image: url('./assests/orange1.png');
   background-size: cover;
   background-position: top;
 }
@@ -185,7 +185,7 @@ nav .nav-links ul {
 .left-sec {
   padding: 0;
   width: 50%;
-  background-image: url('./imagesss/peaches1.png');
+  background-image: url('./assests/peaches1.png');
   background-size: cover;
   background-position: top;
 }
